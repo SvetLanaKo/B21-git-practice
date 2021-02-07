@@ -4,5 +4,6 @@ public class HelloTest {
         //a new line is added for the comment
         System.out.println("a new line was created");
         //new branch was created
+        System.out.println("It is nice to learn something new");
     }
 }
